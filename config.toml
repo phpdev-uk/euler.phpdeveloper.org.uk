@@ -1,0 +1,32 @@
+baseURL = 'https://euler.phpdeveloper.org.uk/'
+languageCode = 'en-gb'
+title = 'phpdev.uk: Project Euler'
+theme = 'archie'
+
+# Code Highlight
+pygmentsstyle = 'monokai'
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 10
+
+[params]
+mode = 'toggle'
+useCDN = false
+mainSections = ['post']
+
+[[params.social]]
+name = 'GitHub'
+icon = 'github'
+url = 'https://github.com/pwaring/project-euler'
+
+# Main menu items
+[[menu.main]]
+name = 'Home'
+url = '/'
+weight = 1
+
+[[menu.main]]
+name = 'About'
+url = '/about'
+weight = 2
