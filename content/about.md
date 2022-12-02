@@ -7,7 +7,7 @@ type: "page"
 
 <!-- TODO: Link languages to the relevant tag -->
 
-An attempt to solve all Project Euler challenges, partly for fun and also as a way of (re)-learning various languages.
+An attempt to solve all [Project Euler](https://projecteuler.net) challenges, partly for fun and also as a way of (re)-learning various languages.
 
 These are not necessarily the most efficient, elegant or robust solutions.
 
