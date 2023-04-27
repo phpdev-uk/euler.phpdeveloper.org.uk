@@ -5,6 +5,6 @@ draft: false
 type: "page"
 ---
 
-An attempt to solve all [Project Euler](https://projecteuler.net) challenges, partly for fun and also as a way of (re)-learning various languages: [Go](/tags/go) and [PHP](/tags/php).
+An attempt to solve all [Project Euler](https://projecteuler.net) challenges, partly for fun and also as a way of (re)-learning various languages: [Go](/tags/go), [PHP](/tags/php) and [C](/tags/c).
 
 These are not necessarily the most efficient, elegant or robust solutions.
