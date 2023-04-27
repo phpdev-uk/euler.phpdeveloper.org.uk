@@ -5,8 +5,6 @@ draft: false
 type: "page"
 ---
 
-<!-- TODO: Link languages to the relevant tag -->
-
-An attempt to solve all [Project Euler](https://projecteuler.net) challenges, partly for fun and also as a way of (re)-learning various languages (Go for now, others to follow).
+An attempt to solve all [Project Euler](https://projecteuler.net) challenges, partly for fun and also as a way of (re)-learning various languages: [Go](/tags/go) and [PHP](/tags/php).
 
 These are not necessarily the most efficient, elegant or robust solutions.
